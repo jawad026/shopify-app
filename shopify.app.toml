@@ -3,7 +3,7 @@
 client_id = "9c7f42643aee96b883b616e62ad81d5a"
 name = "profitable-franchise-app"
 handle = "profitable-franchise-app-5"
-application_url = "https://implies-haven-regards-breaking.trycloudflare.com"
+application_url = "https://shopify-app-git-main-jawaddevs-projects.vercel.app/"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://implies-haven-regards-breaking.trycloudflare.com/auth/callback",
-  "https://implies-haven-regards-breaking.trycloudflare.com/auth/shopify/callback",
-  "https://implies-haven-regards-breaking.trycloudflare.com/api/auth/callback"
+  "https://shopify-app-git-main-jawaddevs-projects.vercel.app//auth/callback",
+  "https://shopify-app-git-main-jawaddevs-projects.vercel.app//auth/shopify/callback",
+  "https://shopify-app-git-main-jawaddevs-projects.vercel.app//api/auth/callback"
 ]
 
 [webhooks]
